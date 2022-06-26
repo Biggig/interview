@@ -3,6 +3,7 @@ title: 大数据基础算法
 date: 2020-01-22
 draft: false
 categories: architecture
+math: true
 ---
 
 ## Bloom filter
