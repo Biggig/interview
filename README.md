@@ -7,3 +7,8 @@
 主题：[hugo-book](https://themes.gohugo.io/hugo-book/)
 
 预览地址：[Interview](https://hadyang.github.io/interview/)
+
+# 运行
+```bash
+hugo server --minify --theme hugo-book
+```
