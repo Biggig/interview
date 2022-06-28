@@ -8,6 +8,9 @@
 
 预览地址：[Interview](https://hadyang.github.io/interview/)
 
+# 工具
+[hugo](https://gohugo.io/)  
+
 # 运行
 ```bash
 hugo server --minify --theme hugo-book
